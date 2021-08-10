@@ -1,6 +1,6 @@
 #!/bin/bash
 TYPE="retro-terminal"
-THEME="green.css"
+THEME="blue.css"
 DOMAIN="github.com/deano309" #if you update the domain after the script has been run, You must disable and re enable JS or the whole theme.  
 ADD_JS="true"
 JS="custom_text_header.js"
